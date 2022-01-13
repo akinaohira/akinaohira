@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hi, I'm Akina Ohira
+-----
+![dog](https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif)
 
-<!--
-**akinaohira/akinaohira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[](https://note.com/pote_aki)
+[![linkein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinaohira/)
+ [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akina568325@gmail.com)
 
-Here are some ideas to get you started:
+### Tech Stack
+![Javascript](https://camo.githubusercontent.com/24158d8f265ef3cf5309fc9be3759c4ef3000e430d8b309e693d40b891b9ccb4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d4637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b
+ )
+![CSS](https://camo.githubusercontent.com/546b20bf74530a0a112b3b9dc0195d4bfb615197f16723285bb6163963df8530/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d3135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465
+ )
+![CSS](https://camo.githubusercontent.com/54bd6a30b5661203cdf3688b7e2c158d605611ed7d14e2d8f76f0da8383c1bbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2d4533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465
+ )
+![CSS](https://camo.githubusercontent.com/568b25d1eedaec33d63b530072a31643315afb172ae235f7bf79100ac942a71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163746a732d3631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b
+ )
+![CSS](https://camo.githubusercontent.com/50c06e7014de63afc69241ae25d508f4170a3ca5b19b7fa78522cae3264ebca3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465
+ )
+![CSS](https://camo.githubusercontent.com/5cf138f286c16abfc96e2c90c224ae65b6a08aef038f61b745b1a69991fae09f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d4646434132382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b
+ )
+![CSS](https://camo.githubusercontent.com/63a19e31adba33e5da62633aafde47c11d400ba5b8fb055d7c98774c0243efd0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3138313731372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465
+ )
+![vscode](https://camo.githubusercontent.com/598715671a47b02d27001f0cf9b02a05912962294b7340d727471b636a938f27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7673636f64652d3030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465
+ )
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+ )
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+ )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akinaohira&show_icons=true&theme=vue)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/akinaohira/github-readme-stats)
+
+
